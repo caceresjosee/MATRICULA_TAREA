@@ -1,0 +1,14 @@
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.AssemblyInfoInputs.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.AssemblyInfo.cs
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.csproj.CoreCompileInputs.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\bin\Debug\net8.0\Matriculas.exe
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\bin\Debug\net8.0\Matriculas.deps.json
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\bin\Debug\net8.0\Matriculas.runtimeconfig.json
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\bin\Debug\net8.0\Matriculas.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\bin\Debug\net8.0\Matriculas.pdb
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\refint\Matriculas.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.pdb
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\Matriculas.genruntimeconfig.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\Repositorio\semana03\dia2\Matriculas\obj\Debug\net8.0\ref\Matriculas.dll
